@@ -1,2 +1,2 @@
 # photography
-This is a slideshow I created to display my photography pictures I took in back high school.
+This is a slideshow I created to display my photography pictures I took back in high school.
